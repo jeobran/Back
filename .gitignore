@@ -1,0 +1,14 @@
+# Symfony
+/var/
+/vendor/
+/.env.local
+.env.test.local
+/.env.*.local
+/public/bundles/
+/node_modules/
+.idea/
+.DS_Store
+phpunit.xml
+phpunit.xml.dist
+coverage/
+/.env
